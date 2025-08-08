@@ -1,0 +1,1372 @@
+{
+  "metadata": {
+    "page_number": 3,
+    "status": "in_progress",
+    "total_vcs": 4,
+    "scraped_timestamp": "094023",
+    "scrape_date": "2025-07-13 09:40:23",
+    "session_id": "20250713_093950",
+    "user_type": "rate_limited",
+    "connection_type": "direct",
+    "scraper_version": "enhanced_old_version"
+  },
+  "vcs": [
+    {
+      "vc_id": "fresh-fund",
+      "name": "Fresh Fund Overview",
+      "url": "https://finder.startupnationcentral.org/investor_page/fresh-fund",
+      "overview": "Fresh Fund is an Israeli first check venture capital fund investing in early-stage startups across segments and verticals. The Fund's typical first check ranges between $250K-$1M and it continues to invest in follow-on rounds as well. To date Fresh Fund has 45 active startups in its portfolio. In addition, Fresh Fund has recently raised a new investment vehicle dedicated exclusively to defense and dual use startups, which is now actively being deployed.",
+      "founded": "1/2016",
+      "israeli_portfolio": "43",
+      "exits": "3",
+      "aum": "$70M",
+      "funds": "0",
+      "investment_stages": "Pre-Seed",
+      "web_social_links": "{'website': 'http://www.fresh.fund/', 'linkedin': 'https://www.linkedin.com/company/17941064', 'facebook': 'https://www.facebook.com/startupnationcentral/', 'twitter': 'https://twitter.com/sncentral_'}",
+      "locations": "Marmorek St 4, Tel Aviv-Yafo, Israel, Israel",
+      "industries": "Business Software, Health Tech & Life Sciences, Fintech & Insurtech, Industrial Technologies, Agriculture & Food Technologies, Automotive & Mobility Technologies, Cyber Security, Media & Entertainment Technologies, Energy Tech, Education & Knowledge Technologies, Aerospace, Defense & HLS",
+      "scraped_at": "2025-07-11 10:43:40",
+      "investments": [
+        {
+          "date": "Feb 2025",
+          "company_name": "Vayu",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$7M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/vayu"
+        },
+        {
+          "date": "Sep 2024",
+          "company_name": "Bluebricks",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$4.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/bluebricks"
+        },
+        {
+          "date": "Sep 2024",
+          "company_name": "Chamelio",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$3.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/chamelio"
+        },
+        {
+          "date": "Aug 2024",
+          "company_name": "TerraWave Energy",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$3.7M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/terrawave-energy"
+        },
+        {
+          "date": "Aug 2024",
+          "company_name": "Shifters AI Robotics",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/shifters-ai-robotics"
+        },
+        {
+          "date": "Aug 2024",
+          "company_name": "Guardoc Health",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$3M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/guardoc-health"
+        },
+        {
+          "date": "Jul 2024",
+          "company_name": "CarbonBlue",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$7M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/carbonblue"
+        },
+        {
+          "date": "Jul 2024",
+          "company_name": "enso",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$6M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/enso"
+        },
+        {
+          "date": "Jun 2024",
+          "company_name": "Kimba",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$1M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/kimba"
+        },
+        {
+          "date": "Feb 2023",
+          "company_name": "MDI Health",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$20M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/mdi-health"
+        },
+        {
+          "date": "Feb 2023",
+          "company_name": "Wisor AI",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$8M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/wisor-ai"
+        },
+        {
+          "date": "Dec 2022",
+          "company_name": "Remepy",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/remepy"
+        },
+        {
+          "date": "Nov 2022",
+          "company_name": "Ginzi.io",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$1.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/ginzi-io"
+        },
+        {
+          "date": "Oct 2022",
+          "company_name": "OurRitual",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$2M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/ourritual"
+        },
+        {
+          "date": "Oct 2022",
+          "company_name": "Gigablue",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$2.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/gigablue"
+        },
+        {
+          "date": "Sep 2022",
+          "company_name": "Slauth.io",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/slauth-io"
+        },
+        {
+          "date": "Aug 2022",
+          "company_name": "Peech",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$8.3M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/peech"
+        },
+        {
+          "date": "May 2022",
+          "company_name": "Firmus",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$4.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/firmus"
+        },
+        {
+          "date": "Feb 2022",
+          "company_name": "CarbonBlue",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/carbonblue"
+        },
+        {
+          "date": "Jan 2022",
+          "company_name": "Dialogue",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/dialogue"
+        },
+        {
+          "date": "Jan 2022",
+          "company_name": "Sloyd",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$680K",
+          "company_url": "https://finder.startupnationcentral.org/company_page/sloyd"
+        },
+        {
+          "date": "Jan 2022",
+          "company_name": "Sherloq",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/sherloq"
+        },
+        {
+          "date": "Jan 2022",
+          "company_name": "Mobius Gaming",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/mobius-gaming"
+        },
+        {
+          "date": "Dec 2021",
+          "company_name": "Incredi.ai",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/incredi-ai"
+        },
+        {
+          "date": "Sep 2021",
+          "company_name": "Lexense",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/lexense"
+        },
+        {
+          "date": "Aug 2021",
+          "company_name": "PayEm",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$7M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/payem"
+        },
+        {
+          "date": "Jun 2021",
+          "company_name": "Diptera.ai",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$3M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/smtlabs"
+        },
+        {
+          "date": "Jun 2021",
+          "company_name": "Wisor AI",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/wisor-ai"
+        },
+        {
+          "date": "Jun 2021",
+          "company_name": "Acsense",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/acsense"
+        },
+        {
+          "date": "Jun 2021",
+          "company_name": "MDI Health",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$6M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/mdi-health"
+        },
+        {
+          "date": "Dec 2020",
+          "company_name": "Remilk",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$11.3M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/remilk"
+        },
+        {
+          "date": "Nov 2020",
+          "company_name": "Zorba",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$2.2M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/zorba"
+        },
+        {
+          "date": "Aug 2020",
+          "company_name": "GiantLeap",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$900K",
+          "company_url": "https://finder.startupnationcentral.org/company_page/giantleap-technologies"
+        },
+        {
+          "date": "Jun 2020",
+          "company_name": "Deltika",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/deltika"
+        },
+        {
+          "date": "Oct 2019",
+          "company_name": "Tailor-ED",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$1.6M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/tailored"
+        },
+        {
+          "date": "Sep 2019",
+          "company_name": "ITC Intelligent Traffic Control",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/itc-intelligent-traffic-control"
+        },
+        {
+          "date": "Aug 2019",
+          "company_name": "MDI Health",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$500K",
+          "company_url": "https://finder.startupnationcentral.org/company_page/mdi-health"
+        },
+        {
+          "date": "Jul 2019",
+          "company_name": "Spendl",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/spendl"
+        },
+        {
+          "date": "Jun 2019",
+          "company_name": "PayEm",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$230K",
+          "company_url": "https://finder.startupnationcentral.org/company_page/payem"
+        },
+        {
+          "date": "Jun 2019",
+          "company_name": "Usearch",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$100K",
+          "company_url": "https://finder.startupnationcentral.org/company_page/contextualweb"
+        },
+        {
+          "date": "Jan 2017",
+          "company_name": "Visitt.io",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/onh"
+        },
+        {
+          "date": "Dec 2016",
+          "company_name": "bitemojo",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$550K",
+          "company_url": "https://finder.startupnationcentral.org/company_page/bitemojo"
+        },
+        {
+          "date": "Jan 2016",
+          "company_name": "Joyned",
+          "round_type": "N/A",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/gamitee"
+        },
+        {
+          "date": "null",
+          "company_name": "Wishingwell",
+          "round_type": "Pre-Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/wishingwell"
+        }
+      ],
+      "investment_rounds_by_sector_detailed": [
+        {
+          "count": 14,
+          "sector": "Business Software"
+        },
+        {
+          "count": 8,
+          "sector": "Health Tech & Life Sciences"
+        },
+        {
+          "count": 6,
+          "sector": "Fintech & Insurtech"
+        },
+        {
+          "count": 4,
+          "sector": "Industrial Technologies"
+        },
+        {
+          "count": 3,
+          "sector": "Agriculture & Food Technologies"
+        },
+        {
+          "count": 3,
+          "sector": "Automotive & Mobility Technologies"
+        },
+        {
+          "count": 2,
+          "sector": "Cyber Security"
+        },
+        {
+          "count": 2,
+          "sector": "Media & Entertainment Technologies"
+        },
+        {
+          "count": 1,
+          "sector": "Energy Tech"
+        },
+        {
+          "count": 1,
+          "sector": "Education & Knowledge Technologies"
+        },
+        {
+          "count": 1,
+          "sector": "Aerospace, Defense & HLS"
+        }
+      ],
+      "investment_rounds_by_type_detailed": [
+        {
+          "fundingStage": "Other",
+          "newInvestments": 1,
+          "followOnInvestments": 0
+        },
+        {
+          "fundingStage": "Pre-Seed",
+          "newInvestments": 21,
+          "followOnInvestments": 0
+        },
+        {
+          "fundingStage": "Seed",
+          "newInvestments": 13,
+          "followOnInvestments": 5
+        },
+        {
+          "fundingStage": "A Round",
+          "newInvestments": 0,
+          "followOnInvestments": 2
+        },
+        {
+          "fundingStage": "Undisclosed",
+          "newInvestments": 4,
+          "followOnInvestments": 0
+        }
+      ],
+      "investment_summary": {
+        "total_investments": 44,
+        "total_sectors": 11,
+        "total_round_types": 5
+      }
+    },
+    {
+      "vc_id": "general-catalyst",
+      "name": "General Catalyst Overview",
+      "url": "https://finder.startupnationcentral.org/investor_page/general-catalyst",
+      "overview": "General Catalyst is a venture capital firm that makes early-stage and growth equity investments. It invests in powerful, positive change that endures.\n\nFor Seed-stage companies: it backs first-time and experience founders, as well as nascent teams, at the ideation phase of enterprise and consumer solutions with Seed stage investments from $500K to $2M.\n\nIn addition, through its Early-stage practice (<$10M in revenue), it support companies at the Series A and Series B stages that are focused on new themes and industries ripe for change through innovation and digital transformation.\n\nThrough its Hatch and XIR programs, it collaborates with world-class executives to create a new business or identify an existing growth-stage business to transform with them. Through these partnerships and active company building, it can accelerate the trajectory and improve the eventual outcome of a business.\n\nThrough its growth-stage practice ($10M 100M in revenue), it partners with founders whose businesses are at an inflection point and show strong potential for meaningful scale. As a continuation of its venture expertise, through its Endurance practice ($100M+ in revenue), it partners with once-in-a-generation companies.\n\nThe firm has offices in Cambridge, MA, Palo Alto, CA and New York City.",
+      "founded": "2000",
+      "israeli_portfolio": "20",
+      "exits": "4",
+      "aum": "$39B",
+      "funds": "16",
+      "investment_stages": "Early stage, B, C",
+      "web_social_links": "{'website': 'https://www.generalcatalyst.com/', 'linkedin': 'https://www.linkedin.com/company/28902', 'facebook': 'https://www.facebook.com/generalcatalyst', 'twitter': 'https://twitter.com/gcvp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}",
+      "locations": "564 University Avenue, Palo Alto, CA, USA, 434 Broadway, New York, NY, USA, 20 University Road, Cambridge, MA, USA, 14-17 Wells Mews, London, UK, South Park Street, San Francisco, CA, USA, Bengaluru, Karnataka, India",
+      "industries": "Fintech & Insurtech, Business Software, Health Tech & Life Sciences, Cyber Security, Retail Platforms, Media & Entertainment Technologies, Aerospace, Defense & HLS",
+      "scraped_at": "2025-07-11 10:43:58",
+      "investments": [
+        {
+          "date": "May 2025",
+          "company_name": "Empathy",
+          "round_type": "C Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$72M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/empathy"
+        },
+        {
+          "date": "Mar 2025",
+          "company_name": "Conntour",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$7.4M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/conntour"
+        },
+        {
+          "date": "Feb 2025",
+          "company_name": "DEEL",
+          "round_type": "Secondary Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$300M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/deel"
+        },
+        {
+          "date": "Oct 2024",
+          "company_name": "Armis",
+          "round_type": "D Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$200M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/armis"
+        },
+        {
+          "date": "Oct 2024",
+          "company_name": "Melio",
+          "round_type": "E Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$150M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/melio"
+        },
+        {
+          "date": "Mar 2024",
+          "company_name": "Empathy",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$47M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/empathy"
+        },
+        {
+          "date": "Mar 2023",
+          "company_name": "Jigso",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$7.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/jigso"
+        },
+        {
+          "date": "Nov 2022",
+          "company_name": "Black Ore",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$60M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/black-ore"
+        },
+        {
+          "date": "Nov 2022",
+          "company_name": "apiiro",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$100M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/apiiro"
+        },
+        {
+          "date": "Oct 2021",
+          "company_name": "Better Health",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$10M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/better-health"
+        },
+        {
+          "date": "Sep 2021",
+          "company_name": "Empathy",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$30M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/empathy"
+        },
+        {
+          "date": "Aug 2021",
+          "company_name": "Rapyd Financial Network",
+          "round_type": "E Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$300M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/rapyd"
+        },
+        {
+          "date": "Jul 2021",
+          "company_name": "Aidoc",
+          "round_type": "C Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$66M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/tailormed"
+        },
+        {
+          "date": "Apr 2021",
+          "company_name": "Empathy",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$13M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/empathy"
+        },
+        {
+          "date": "Jan 2021",
+          "company_name": "Rapyd Financial Network",
+          "round_type": "D Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$300M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/rapyd"
+        },
+        {
+          "date": "Jan 2021",
+          "company_name": "Melio",
+          "round_type": "D Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$110M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/melio"
+        },
+        {
+          "date": "Nov 2020",
+          "company_name": "Mad Brain Games",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/mad-brain-games"
+        },
+        {
+          "date": "Nov 2020",
+          "company_name": "Logz.io",
+          "round_type": "E Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$23M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/logz-io"
+        },
+        {
+          "date": "Oct 2019",
+          "company_name": "Rapyd Financial Network",
+          "round_type": "C Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$105M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/rapyd"
+        },
+        {
+          "date": "Sep 2019",
+          "company_name": "Fundbox",
+          "round_type": "C Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$176M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/fundbox"
+        },
+        {
+          "date": "May 2019",
+          "company_name": "Logz.io",
+          "round_type": "D Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$52M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/logz-io"
+        },
+        {
+          "date": "Apr 2019",
+          "company_name": "Lemonade",
+          "round_type": "D Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$300M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/lemonade"
+        },
+        {
+          "date": "Feb 2019",
+          "company_name": "Rapyd Financial Network",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$40M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/rapyd"
+        },
+        {
+          "date": "Sep 2018",
+          "company_name": "Singular",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$30M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/singular"
+        },
+        {
+          "date": "Jun 2018",
+          "company_name": "Preempt Security",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$17.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/preempt-security"
+        },
+        {
+          "date": "Jan 2017",
+          "company_name": "FeedVisor",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$25M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/feedvisor"
+        },
+        {
+          "date": "Dec 2016",
+          "company_name": "Lemonade",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$34M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/lemonade"
+        },
+        {
+          "date": "Nov 2016",
+          "company_name": "Singular",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$15M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/singular"
+        },
+        {
+          "date": "Apr 2016",
+          "company_name": "Preempt Security",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$8M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/preempt-security"
+        },
+        {
+          "date": "Sep 2015",
+          "company_name": "Fundbox",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$50M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/fundbox"
+        },
+        {
+          "date": "Mar 2015",
+          "company_name": "Fundbox",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$40M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/fundbox"
+        },
+        {
+          "date": "Jul 2014",
+          "company_name": "Singular",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/singular"
+        },
+        {
+          "date": "May 2013",
+          "company_name": "flok",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$9M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/flock"
+        },
+        {
+          "date": "Jan 2012",
+          "company_name": "flok",
+          "round_type": "Seed",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$3.2M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/flock"
+        },
+        {
+          "date": "Aug 2004",
+          "company_name": "OzVision",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$7.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/ozvision"
+        },
+        {
+          "date": "null",
+          "company_name": "Melio",
+          "round_type": "D Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$250M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/melio"
+        }
+      ],
+      "investment_rounds_by_sector_detailed": [
+        {
+          "count": 14,
+          "sector": "Fintech & Insurtech"
+        },
+        {
+          "count": 9,
+          "sector": "Business Software"
+        },
+        {
+          "count": 6,
+          "sector": "Health Tech & Life Sciences"
+        },
+        {
+          "count": 4,
+          "sector": "Cyber Security"
+        },
+        {
+          "count": 1,
+          "sector": "Retail Platforms"
+        },
+        {
+          "count": 1,
+          "sector": "Media & Entertainment Technologies"
+        },
+        {
+          "count": 1,
+          "sector": "Aerospace, Defense & HLS"
+        }
+      ],
+      "investment_rounds_by_type_detailed": [
+        {
+          "fundingStage": "Seed",
+          "newInvestments": 6,
+          "followOnInvestments": 0
+        },
+        {
+          "fundingStage": "A Round",
+          "newInvestments": 3,
+          "followOnInvestments": 3
+        },
+        {
+          "fundingStage": "B Round",
+          "newInvestments": 5,
+          "followOnInvestments": 3
+        },
+        {
+          "fundingStage": "C Round",
+          "newInvestments": 1,
+          "followOnInvestments": 3
+        },
+        {
+          "fundingStage": "D Round",
+          "newInvestments": 3,
+          "followOnInvestments": 3
+        },
+        {
+          "fundingStage": "E Round",
+          "newInvestments": 0,
+          "followOnInvestments": 3
+        },
+        {
+          "fundingStage": "Secondary Round",
+          "newInvestments": 1,
+          "followOnInvestments": 0
+        },
+        {
+          "fundingStage": "Undisclosed",
+          "newInvestments": 1,
+          "followOnInvestments": 1
+        }
+      ],
+      "investment_summary": {
+        "total_investments": 36,
+        "total_sectors": 7,
+        "total_round_types": 8
+      }
+    },
+    {
+      "vc_id": "fortissimo-capital",
+      "name": "Fortissimo Capital Overview",
+      "url": "https://finder.startupnationcentral.org/investor_page/fortissimo-capital",
+      "overview": "Fortissimo Capital is an Israeli private equity investment group investing primarily in Israel-related public and private technologies and industrial companies that require a capital infusion to expand their businesses. The group provides capital in special situations to facilitate expansion.\n\nFortissimo Capital invests in companies at various phases, including special situations, growth acceleration, turnaround, and at points of inflection in which companies require not only capital but also strategic guidance to help them navigate to success.\n\nFortissimo Capital typically invests in companies with the following characteristics: leading, viable technology implemented in existing products with proven sales; consistent revenue stream and a pipeline from top-tier customers; high growth market; clear potential to gain a leading market share; and, an experienced management team.\n\nThe group is composed of long-term investors seeking to partner with management to shape corporate strategy and implement a plan of execution to accelerate growth and maximize shareholder value. Fortissimo is backed by leading financial institutions including insurance companies, banks, and pension funds.",
+      "founded": "1/2004",
+      "israeli_portfolio": "27",
+      "exits": "6",
+      "aum": "$2.7B",
+      "funds": "6",
+      "investment_stages": "Growth Stage, Late stage, A",
+      "web_social_links": "{'website': 'http://www.ffcapital.com/', 'linkedin': 'https://www.linkedin.com/company/1130889', 'facebook': 'https://www.facebook.com/startupnationcentral/', 'twitter': 'https://twitter.com/sncentral_'}",
+      "locations": "HaArba'a Street 30, Tel Aviv-Yafo, Israel",
+      "industries": "Agriculture & Food Technologies, Industrial Technologies, Business Software, Education & Knowledge Technologies, Fintech & Insurtech, Health Tech & Life Sciences, Automotive & Mobility Technologies, Aerospace, Defense & HLS, Other",
+      "scraped_at": "2025-07-11 10:44:16",
+      "investments": [
+        {
+          "date": "Jun 2025",
+          "company_name": "Beewise",
+          "round_type": "D Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$50M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/beewise"
+        },
+        {
+          "date": "Feb 2025",
+          "company_name": "Stratasys",
+          "round_type": "N/A",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$120M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/stratasys"
+        },
+        {
+          "date": "Jul 2024",
+          "company_name": "Scopio Labs",
+          "round_type": "D Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$42M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/scopio-labs"
+        },
+        {
+          "date": "Apr 2024",
+          "company_name": "Velox",
+          "round_type": "C Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$38M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/velox"
+        },
+        {
+          "date": "Dec 2022",
+          "company_name": "Equinom",
+          "round_type": "Non-GMO Seed Varieties",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$35M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/equinom"
+        },
+        {
+          "date": "Jul 2022",
+          "company_name": "Simplex 3D",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$40M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/simplex-3d"
+        },
+        {
+          "date": "Jun 2022",
+          "company_name": "FIDO",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$30M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/fido"
+        },
+        {
+          "date": "Jan 2022",
+          "company_name": "Beewise",
+          "round_type": "C Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$80M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/beewise"
+        },
+        {
+          "date": "Dec 2021",
+          "company_name": "SolidRun",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/solidrun"
+        },
+        {
+          "date": "Nov 2021",
+          "company_name": "GigaSpaces Technologies",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$13.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/gigaspaces-technologies"
+        },
+        {
+          "date": "Sep 2021",
+          "company_name": "FieldIn",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$30M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/fieldin"
+        },
+        {
+          "date": "Jun 2021",
+          "company_name": "BreezoMeter",
+          "round_type": "C Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$30M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/breezometer"
+        },
+        {
+          "date": "Jun 2021",
+          "company_name": "Equinom",
+          "round_type": "Non-GMO Seed Varieties",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$20M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/equinom"
+        },
+        {
+          "date": "Mar 2021",
+          "company_name": "Blend",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$10M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/one-hour-translation"
+        },
+        {
+          "date": "Feb 2021",
+          "company_name": "Morning by Green Invoice",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$20M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/morning-by-green-invoice"
+        },
+        {
+          "date": "Dec 2020",
+          "company_name": "Beewise",
+          "round_type": "B Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$22M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/beewise"
+        },
+        {
+          "date": "Jul 2020",
+          "company_name": "Beewise",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$10M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/beewise"
+        },
+        {
+          "date": "May 2020",
+          "company_name": "GigaSpaces Technologies",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$12M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/gigaspaces-technologies"
+        },
+        {
+          "date": "Feb 2020",
+          "company_name": "Equinom",
+          "round_type": "Non-GMO Seed Varieties",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$10M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/equinom"
+        },
+        {
+          "date": "Jan 2020",
+          "company_name": "Tritone",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/tritone-technologies"
+        },
+        {
+          "date": "Sep 2019",
+          "company_name": "Polytex Technologies",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/polytex-technologies"
+        },
+        {
+          "date": "Oct 2018",
+          "company_name": "Equinom",
+          "round_type": "Non-GMO Seed Varieties",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$6M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/equinom"
+        },
+        {
+          "date": "Mar 2018",
+          "company_name": "Fritz",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$50M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/fritz"
+        },
+        {
+          "date": "Jan 2018",
+          "company_name": "Incredibuild",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/incredibuild"
+        },
+        {
+          "date": "Oct 2015",
+          "company_name": "OriGene Seeds",
+          "round_type": "OriGene Seeds",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$10M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/origene-seeds"
+        },
+        {
+          "date": "Nov 2014",
+          "company_name": "Enercon",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/enercon"
+        },
+        {
+          "date": "Jan 2014",
+          "company_name": "Blend",
+          "round_type": "A Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$10M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/one-hour-translation"
+        },
+        {
+          "date": "Jan 2014",
+          "company_name": "Equinom",
+          "round_type": "Non-GMO Seed Varieties",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$4.25M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/equinom"
+        },
+        {
+          "date": "Dec 2013",
+          "company_name": "Priority Software",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/Priority-Software"
+        },
+        {
+          "date": "Jan 2010",
+          "company_name": "Afimilk",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/afimilk"
+        },
+        {
+          "date": "Aug 2009",
+          "company_name": "Cadent",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$19.31M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/cadent"
+        },
+        {
+          "date": "Aug 2006",
+          "company_name": "RadView",
+          "round_type": "N/A",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$1.5M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/radview"
+        },
+        {
+          "date": "Nov 2004",
+          "company_name": "Telrad Networks",
+          "round_type": "Undisclosed Round",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "$21M",
+          "company_url": "https://finder.startupnationcentral.org/company_page/telrad-networks"
+        },
+        {
+          "date": "null",
+          "company_name": "Phoenicia Flat Glass Industries",
+          "round_type": "N/A",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/phoenicia"
+        },
+        {
+          "date": "null",
+          "company_name": "Dip-Tech",
+          "round_type": "N/A",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/dip-tech"
+        },
+        {
+          "date": "null",
+          "company_name": "The Crow Group",
+          "round_type": "N/A",
+          "lead_investor": "No",
+          "follow_on": "No",
+          "total_round_amount": "N/A",
+          "company_url": "https://finder.startupnationcentral.org/company_page/the-crow-group"
+        }
+      ],
+      "investment_rounds_by_sector_detailed": [
+        {
+          "count": 11,
+          "sector": "Agriculture & Food Technologies"
+        },
+        {
+          "count": 10,
+          "sector": "Industrial Technologies"
+        },
+        {
+          "count": 6,
+          "sector": "Business Software"
+        },
+        {
+          "count": 2,
+          "sector": "Education & Knowledge Technologies"
+        },
+        {
+          "count": 2,
+          "sector": "Fintech & Insurtech"
+        },
+        {
+          "count": 2,
+          "sector": "Health Tech & Life Sciences"
+        },
+        {
+          "count": 1,
+          "sector": "Automotive & Mobility Technologies"
+        },
+        {
+          "count": 1,
+          "sector": "Aerospace, Defense & HLS"
+        },
+        {
+          "count": 1,
+          "sector": "Other"
+        }
+      ],
+      "investment_rounds_by_type_detailed": [
+        {
+          "fundingStage": "Seed",
+          "newInvestments": 2,
+          "followOnInvestments": 0
+        },
+        {
+          "fundingStage": "A Round",
+          "newInvestments": 4,
+          "followOnInvestments": 1
+        },
+        {
+          "fundingStage": "B Round",
+          "newInvestments": 1,
+          "followOnInvestments": 3
+        },
+        {
+          "fundingStage": "C Round",
+          "newInvestments": 2,
+          "followOnInvestments": 2
+        },
+        {
+          "fundingStage": "D Round",
+          "newInvestments": 1,
+          "followOnInvestments": 2
+        },
+        {
+          "fundingStage": "PIPE",
+          "newInvestments": 2,
+          "followOnInvestments": 0
+        },
+        {
+          "fundingStage": "Undisclosed",
+          "newInvestments": 15,
+          "followOnInvestments": 1
+        }
+      ],
+      "investment_summary": {
+        "total_investments": 36,
+        "total_sectors": 9,
+        "total_round_types": 7
+      }
+    },
+    {
+      "vc_id": "innogy-innovation-hub",
+      "name": "Future Energy Ventures Overview",
+      "url": "https://finder.startupnationcentral.org/investor_page/innogy-innovation-hub",
+      "overview": "Future Energy Ventures (FEV), established in 2016, focuses on supporting start-ups that aim to advance energy transition and decarbonization. In January 2024, FEV announced the initial closing of Fund II, an SFDR Article 9 fund, targeting investments in digital and digitally-enabled climate technologies. Fund II prioritizes solutions with the potential to transform the energy sector and urban environments. Operating from Berlin, Tel Aviv, and Palo Alto, FEV offers funding and scaling opportunities through collaboration with industry and investor partners",
+      "founded": "1/2016",
+      "israeli_portfolio": "12",
+      "exits": "2",
+      "aum": "$350M",
+      "funds": "0",
+      "investment_stages": "Growth Stage, Late stage, A",
+      "web_social_links": "{'website': 'https://fev.vc/', 'linkedin': 'https://www.linkedin.com/company/10602068', 'facebook': 'https://www.facebook.com/startupnationcentral/', 'twitter': 'https://twitter.com/FutureEnergy_VC'}",
+      "locations": "Arye Shenkar St 1, Herzliya, Israel, Silicon Valley, CA, USA, Torstra\u00dfe 201, 10115 Berlin, Germany",
+      "industries": "Industrial Technologies, Business Software, Cyber Security, Automotive & Mobility Technologies",
+      "scraped_at": "2025-07-11 10:44:33",
+      "investments": [],
+      "investment_rounds_by_sector_detailed": [],
+      "investment_rounds_by_type_detailed": [],
+      "investment_summary": {
+        "total_investments": 0,
+        "total_sectors": 0,
+        "total_round_types": 0
+      }
+    }
+  ]
+}
